@@ -12,3 +12,4 @@ hello stash
 
 
 merge txt
+rebase command practice
